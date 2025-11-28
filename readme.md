@@ -47,36 +47,53 @@ After these commands complete, you're ready to run the pipelines described below
 ---
 
 ## Embedded Screenshots
-Below are the screenshots currently available in the `screenshots/` folder. Replace any placeholder images in `screenshots/` with higher-fidelity screenshots if you have them.
-
-### MLflow runs (placeholder)
-![MLflow runs dashboard](screenshots/mlflow_runs_dashboard.png)
+Below are the screenshots currently available in the `screenshots/` folder. Replace any placeholder images in `screenshots/` with higher-fidelity screenshots if you have them
 
 ### Pipeline DAG (top)
-![Pipeline DAG top](screenshots/pipeline_dag_top.png)
+Pipeline DAG top
+<img width="403" height="572" alt="Screenshot 2025-11-27 212937" src="https://github.com/user-attachments/assets/19cce6e3-4f34-495b-ab36-ec9bef872692" />
+
 
 ### Pipeline DAG (zoom)
-![Pipeline DAG zoom](screenshots/pipeline_dag_zoom.png)
+<img width="623" height="530" alt="Screenshot 2025-11-27 212953" src="https://github.com/user-attachments/assets/b6dc5a4d-db76-4ba2-8219-6f007038ecbb" />
+
 
 ### Metrics table (placeholder)
-![Metrics table](screenshots/metrics_table.png)
+<img width="524" height="274" alt="Screenshot 2025-11-27 213053" src="https://github.com/user-attachments/assets/8820e4c1-92d8-49b3-93e8-f4e14cfb38e7" />
+
 
 ### VS Code project tree (placeholder)
-![VS Code tree](screenshots/vscode_tree.png)
+<img width="770" height="849" alt="Screenshot 2025-11-27 213313" src="https://github.com/user-attachments/assets/f0b24262-0990-4486-9885-fd1ad74ecd2c" />
+
 
 ### Prediction terminal (placeholder)
-![Prediction terminal](screenshots/prediction_terminal.png)
+<img width="770" height="444" alt="Screenshot 2025-11-27 214748" src="https://github.com/user-attachments/assets/c72de4c9-b04f-4553-acab-b29fadcbb196" />
+<img width="857" height="402" alt="Screenshot 2025-11-27 213552" src="https://github.com/user-attachments/assets/b2eb1553-4379-45ab-b5f4-2dc1acaf4a01" />
+
 
 ### Inference DAG (placeholder)
-![Inference DAG](screenshots/inference_dag.png)
+<img width="719" height="568" alt="Screenshot 2025-11-27 214911" src="https://github.com/user-attachments/assets/264f8790-67f2-4488-9a5c-bccdcb200a6d" />
+
 
 ### Additional analysis visuals
-![SalePrice histogram](screenshots/SalePrice_histogram.png)
-![Correlation heatmap](screenshots/correlation_heatmap.png)
-![Missing values heatmap](screenshots/missing_values_heatmap.png)
-![Neighborhood counts](screenshots/Neighborhood_countplot.png)
-![Overall Quality vs SalePrice](screenshots/OverallQual_vs_SalePrice.png)
-![Pairplot sample](screenshots/pairplot.png)
+SalePrice histogram
+<img width="538" height="323" alt="image" src="https://github.com/user-attachments/assets/532b3d66-eec8-4b03-aff3-a556789a7916" />
+
+Correlation heatmap
+<img width="765" height="634" alt="image" src="https://github.com/user-attachments/assets/5ccc6c8a-f7b8-4533-a04c-e2009590278d" />
+
+Missing values heatmap
+<img width="950" height="632" alt="image" src="https://github.com/user-attachments/assets/6a4bf134-8524-4aea-aa99-b0f0397691c6" />
+
+Neighborhood counts
+<img width="1054" height="634" alt="image" src="https://github.com/user-attachments/assets/8211bdad-fc78-4d25-a7fa-457a794f689c" />
+
+Overall Quality vs SalePrice
+<img width="1049" height="631" alt="image" src="https://github.com/user-attachments/assets/e6a0fefe-30be-4732-bd05-3ad578d3f926" />
+
+Pairplot sample
+<img width="636" height="634" alt="image" src="https://github.com/user-attachments/assets/e5b15177-d5f4-4a40-82d7-91a871e8a2e9" />
+
 
 ---
 
