@@ -1,0 +1,9 @@
+zenml
+mlflow
+scikit-learn==1.7.2
+pandas
+numpy
+pyarrow
+seaborn
+matplotlib
+joblib
