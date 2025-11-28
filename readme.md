@@ -13,6 +13,21 @@ If you're setting this project up locally, follow these three steps to create a 
 python -m venv .venv        # create a local virtual environment named .venv
 source .venv/bin/activate   # activate the virtual environment
 pip install -r requirements.txt  # install Python dependencies listed in requirements.txt
+# House Price Prediction — Project Overview & Output
+
+## Project Objectives
+- Build a reproducible end-to-end ML pipeline that ingests the Ames Housing dataset, handles missing values and outliers, performs feature engineering, trains and evaluates a regression model, and provides a deployment/inference flow.
+- Demonstrate MLOps best practices: reproducible runs, experiment tracking, model versioning and a simple local deploy/predict flow using ZenML + MLflow.
+
+---
+
+## Quick Start (create environment & install dependencies)
+If you're setting this project up locally, follow these three steps to create a virtual environment, activate it, and install the required Python packages. Run these from the project root directory (`/home/sanjaylinux/hpp`).
+
+```bash
+python -m venv .venv        # create a local virtual environment named .venv
+source .venv/bin/activate   # activate the virtual environment
+pip install -r requirements.txt  # install Python dependencies listed in requirements.txt
 ```
 
 After these commands complete, you're ready to run the pipelines described below.
