@@ -6,4 +6,4 @@ tmp_test.parquet
 mlruns/
 .env
 .DS_Store
-screenshots/*.png
+screenshots/
